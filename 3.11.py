@@ -38,3 +38,6 @@ else:
 
 print(numbers)
 input()
+
+def HelloFunc ():
+    print ("Hello World")

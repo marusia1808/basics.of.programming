@@ -15,7 +15,7 @@ def naturalNumberInput(long):
             else:
                 return  number
 
-simbols = [1, 2, 3, 4, 5]
+simbols = [1, 2, 3, 4]
 
 id1 = naturalNumberInput(len(simbols))
 id2 = naturalNumberInput(len(simbols))
